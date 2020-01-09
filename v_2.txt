@@ -1,0 +1,67 @@
+A sentence is a collection of words that is grammatically complete by itself and usually
+expresses a complete idea. It typically contains both a subject and a predicate. In written
+English, a sentence starts with a capital letter and ends with a period or full stop.
+A predicate MUST contain a finite verb that relates to, or 'agrees with', the subject.
+A finite verb is a verb that belongs to a subject and shows tense: I did my homework.
+Sometimes the subject role is implied or 'understood': Do your homework.
+An infinite verb (infinitive) is made up of the marker 'to' and the main part of the
+verb. I love to read.
+Without a finite verb, a sentence is called a sentence fragment. For example, the dilemma
+that Hamlet expresses in his soliloquy
+'To be, or not to be' is a sentence fragment because it has a verb (used twice, in fact)
+that is not finite ('to be' is an infinitive). However, 'That is the question' is a complete
+sentence because 'is' is a finite verb.
+We can classify sentences by function (the work that they do in a sentence) and by form
+(their structure or their arrangement of words)
+The four functions are: Statement The cat sat on that mat.
+Question: Did the cat sit on that mat? Command: Sit on that mat, cat!
+Exclamation: Wow! Look at that cat!
+We need to digress for a moment to explain the term 'clause'. A clause, like a simple
+sentence, is a string of words that has a subject (even if it is understood) and a predicate
+that includes a finite verb.
+An independent (main, principal) clause can stand alone as a sentence.
+For example: I love reading. A dependent (subordinate) clause does not
+make sense on its own. For example: Because I love reading . . .
+Clauses can combine to create compound, complex, and compound-complex sentences.
+We have highlighted clauses in the sentences below about Sherlock Holmes. The orange components
+are independent or main clauses. The blue ones are dependent clauses.
+There are four main sentence forms:
+A simple is made up of one independent clause
+Sherlock Holmes waited.
+A compound sentence is made up of two or more independent clauses joined by either a semicolon
+or a coordinating conjunction such as for, and, nor, but, or, yet, or so. When a comma
+is used in front of one of these conjunctions to introduce an independent clause, these
+conjunctions are called by the mnemonic the COMMA FANBOYS.
+Sherlock Holmes waited; however, Watson delayed his visit.
+Sherlock Holmes waited, and [he] was missed at Lloyd's registers.
+A complex sentence is made up of one dependent clause subordinated to one independent clause,
+either at the beginning (Left-branching), in the middle (mid-branching), or at the end
+(right-branching).
+While Watson moved the lamp, Sherlock Holmes waited. (Left Branching)
+Sherlock Holmes, though he was anxious to have his dinner, waited. (Mid Branching)
+Sherlock Holmes waited, while Watson moved the lamp. (Right Branching)
+A compound-complex is made up of a second independent clause added to a complex sentence,
+or a dependant clause added to a compound sentence
+While Watson moved the lamp, Sherlock Holmes waited, and [he] was missed at Lloyd's registers.
+Sherlock Holmes waited, and [he] was missed at Lloyd's registers, because he was a good
+customer.
+In a wonderful book by Stanley Fish, How to write a sentence and how to read one, he asks:
+'How does every component in a sentence function to contribute to/to extend/to maintain
+the ensemble of relationships?'
+Fish advises writing students to practise composing sentences and then explain what
+you have done.
+Following this lecture, you will find a collection of 'chunks' of texts that you can use
+to construct complete, coherent sentences using the core sentence Sherlock Holmes waited.
+There are no right or wrong answers to this activity and you will be surprised to know
+how many sentences are possible in this exercise.
+Yet another way to categorise sentences is into loose and periodic forms.
+A loose sentence positions the important information at the beginning.
+Plain language reforms have become law in many countries because law makers believe
+that citizens should have access to documents they can understand.
+Can you see why this is a loose sentence?
+A periodic sentence, on the other hand, positions the important information at the END.
+Because law makers believe that citizens should have access to documents they can understand,
+plain language reforms have become law in many countries.
+Can you see why this is a periodic sentence?
+To conclude this section, here's a table to introduce subjects, predicates, and objects,
+which we'll cover next week when we look at verbs.
